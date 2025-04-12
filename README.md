@@ -7,3 +7,6 @@ Projeto simples de um site de receitas, desenvolvido como parte do curso da Mast
 
 ## Como visualizar
 Você pode abrir o `index.html` no navegador para ver a página.
+
+# Pré Visualização
+![Prévia do Site](/assets/sitePrevia.png)
